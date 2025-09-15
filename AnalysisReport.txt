@@ -1,0 +1,31 @@
+=================== Grand Totals ===================
+Revenue: $137,348,768.31
+Cost: $93,180,569.91
+Profit: $44,168,198.4
+
+=================== Units Sold per Item Type ===================
+Baby Food: 40545
+Vegetables: 20051
+Personal Care: 48708
+Office Supplies: 46967
+Household: 44727
+Clothes: 71260
+Snacks: 13637
+Cereal: 25877
+Cosmetics: 83718
+Beverages: 56708
+Fruits: 49998
+Meat: 10675
+
+=================== Profit per Region ===================
+Australia and Oceania: $4,722,160.03
+Asia: $6,113,845.87
+Europe: $11,082,938.63
+Central America and the Caribbean: $2,846,907.85
+Middle East and North Africa: $5,761,191.86
+North America: $1,457,942.76
+Sub-Saharan Africa: $12,183,211.4
+
+=================== Key Insights ===================
+Top-Selling Product: Cosmetics (83718 units)
+Most Profitable Region: Sub-Saharan Africa ($12,183,211.4)
